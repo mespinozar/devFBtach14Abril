@@ -1,0 +1,14 @@
+{
+  "name": "devfbtach14abril-master",
+  "version": "1.0.0",
+  "description": "Repositorio batch 14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Espinoza",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
